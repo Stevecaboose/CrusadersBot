@@ -14,4 +14,6 @@ it is idle in one the cycles. Keep in mind that this will take control of your m
 recommended that you run this while you're not using the computer. 
 
 To get started download the "CrusadersBotFinal.zip", extract it and run the exe. Simple as that.
+The dist folder has the same files as the zip file.
+
 Hope you enjoy this. Happy clicking
