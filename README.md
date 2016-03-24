@@ -13,6 +13,12 @@ button. This time is measured in minutes. It is recommended that you only close 
 it is idle in one the cycles. Keep in mind that this will take control of your mouse so it is
 recommended that you run this while you're not using the computer. 
 
+Features:
+---Checks the game is running
+---Puts game window in correct position
+---Checks settings
+---Auto Storm Rider (with Magnify)
+
 To get started download the "CrusadersBotFinal.zip", extract it and run the exe. Simple as that.
 The dist folder has the same files as the zip file.
 
