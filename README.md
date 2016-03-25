@@ -23,3 +23,9 @@ To get started download the "CrusadersBotFinal.zip", extract it and run the exe.
 The dist folder has the same files as the zip file.
 
 Hope you enjoy this. Happy clicking
+
+Change Log 3/24/16:
+
+---Ask at the begining to enable "buy all" at the end of each cycle
+
+---Screen gets cleared after every second in the cycle timer
